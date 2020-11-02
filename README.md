@@ -14,4 +14,6 @@
  🔹 
 [💚 Sponsor](https://github.com/sponsors/raisty)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=raisty&show_icons=true&include_all_commits=true&cache_seconds=1800&title_color=2aa889&text_color=628482&icon_color=599cab&bg_color=dde6e3)](https://github.com/raisty)
+## My work
+
+You can find my work at [**Git⚡️**](https://git.energy/rasty).
