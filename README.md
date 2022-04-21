@@ -13,7 +13,3 @@
 🏜 Sand & Sun
  🔹 
 [💚 Sponsor](https://github.com/sponsors/raisty)
-
-## My work
-
-You can find my work at [**Git⚡️**](https://git.energy/rasty).
