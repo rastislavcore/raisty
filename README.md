@@ -12,4 +12,4 @@
  🔹 
 🏜 Sand & Sun
  🔹 
-[💚 Donate Ore](https://blockindex.net/address/cb2266fec7f127e2f884f0fbbcbf45dfd6fad5401922)
+[💚 Donate Ore](https://pay.btc.horse/#payto://xcb/cb2266fec7f127e2f884f0fbbcbf45dfd6fad5401922)
